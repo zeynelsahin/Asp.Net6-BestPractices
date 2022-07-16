@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "J2fwKLuT6xRWgQ9Pu214EdyhwiIqyOzGWmJhnRvkWZBe2RE6aw7/6PDuiWPCImOuCMhxgYjISHli5V+Kgtiy2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zeynels\\OneDrive - Provision\\Desktop\\RiderProjects\\BestPractices\\BestPractices.Api.Service\\BestPractices.Api.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zeynels\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\zeynels\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\zeynels\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0-preview.6.22324.4\\microsoft.extensions.dependencyinjection.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\zeynels\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-preview.6.22324.4\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\zeynels\\.nuget\\packages\\microsoft.extensions.http\\7.0.0-preview.6.22324.4\\microsoft.extensions.http.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\zeynels\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0-preview.6.22324.4\\microsoft.extensions.logging.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\zeynels\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0-preview.6.22324.4\\microsoft.extensions.logging.abstractions.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\zeynels\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-preview.6.22324.4\\microsoft.extensions.options.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\zeynels\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-preview.6.22324.4\\microsoft.extensions.primitives.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\zeynels\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

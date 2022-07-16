@@ -1,0 +1,12 @@
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Models\bin\Debug\net6.0\BestPractices.Api.Models.deps.json
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Models\bin\Debug\net6.0\BestPractices.Api.Models.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Models\bin\Debug\net6.0\BestPractices.Api.Models.pdb
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Models\obj\Debug\net6.0\BestPractices.Api.Models.csproj.AssemblyReference.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Models\obj\Debug\net6.0\BestPractices.Api.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Models\obj\Debug\net6.0\BestPractices.Api.Models.AssemblyInfoInputs.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Models\obj\Debug\net6.0\BestPractices.Api.Models.AssemblyInfo.cs
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Models\obj\Debug\net6.0\BestPractices.Api.Models.csproj.CoreCompileInputs.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Models\obj\Debug\net6.0\BestPractices.Api.Models.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Models\obj\Debug\net6.0\refint\BestPractices.Api.Models.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Models\obj\Debug\net6.0\BestPractices.Api.Models.pdb
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Models\obj\Debug\net6.0\ref\BestPractices.Api.Models.dll

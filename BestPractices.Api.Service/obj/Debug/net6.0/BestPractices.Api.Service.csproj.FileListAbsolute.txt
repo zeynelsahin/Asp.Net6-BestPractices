@@ -1,0 +1,17 @@
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Service\bin\Debug\net6.0\BestPractices.Api.Service.deps.json
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Service\bin\Debug\net6.0\BestPractices.Api.Service.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Service\bin\Debug\net6.0\BestPractices.Api.Service.pdb
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Service\bin\Debug\net6.0\BestPractices.Api.Data.Models.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Service\bin\Debug\net6.0\BestPractices.Api.Models.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Service\bin\Debug\net6.0\BestPractices.Api.Data.Models.pdb
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Service\bin\Debug\net6.0\BestPractices.Api.Models.pdb
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Service\obj\Debug\net6.0\BestPractices.Api.Service.csproj.AssemblyReference.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Service\obj\Debug\net6.0\BestPractices.Api.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Service\obj\Debug\net6.0\BestPractices.Api.Service.AssemblyInfoInputs.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Service\obj\Debug\net6.0\BestPractices.Api.Service.AssemblyInfo.cs
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Service\obj\Debug\net6.0\BestPractices.Api.Service.csproj.CoreCompileInputs.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Service\obj\Debug\net6.0\BestPractices.Api.Service.csproj.CopyComplete
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Service\obj\Debug\net6.0\BestPractices.Api.Service.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Service\obj\Debug\net6.0\refint\BestPractices.Api.Service.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Service\obj\Debug\net6.0\BestPractices.Api.Service.pdb
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\BestPractices\BestPractices.Api.Service\obj\Debug\net6.0\ref\BestPractices.Api.Service.dll

@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\BestPractices.Api.Data.Models\BestPractices.Api.Data.Models.csproj" />
+      <ProjectReference Include="..\BestPractices.Api.Models\BestPractices.Api.Models.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="11.0.1" />
+      <PackageReference Include="Microsoft.Extensions.Http" Version="7.0.0-preview.6.22324.4" />
+    </ItemGroup>
+
+</Project>
