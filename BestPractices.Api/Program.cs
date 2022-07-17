@@ -1,3 +1,4 @@
+using BestPractices.Api.BackgroundServices;
 using BestPractices.Api.Extensions;
 using BestPractices.Api.Models;
 using BestPractices.Api.Service;
@@ -27,6 +28,7 @@ builder.Services.AddHttpClient("api", config =>
     config.BaseAddress = new Uri("https://www.asdasd.com");
     config.DefaultRequestHeaders.Add("Authorization", "Bearer adasdad");
 });
+builder.Services.AddHostedService<DateTimeLogWriter>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
