@@ -1,0 +1,16 @@
+2022-07-17 23:33:03.435 +03:00 [INF] Now listening on: https://localhost:7076
+2022-07-17 23:33:03.467 +03:00 [INF] Now listening on: http://localhost:5076
+2022-07-17 23:33:05.583 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7076/swagger/index.html - -
+2022-07-17 23:33:06.097 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7076/swagger/index.html - - - 200 - text/html;charset=utf-8 520.2849ms
+2022-07-17 23:33:06.964 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7076/swagger/v1/swagger.json - -
+2022-07-17 23:33:07.115 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7076/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 151.3865ms
+2022-07-17 23:33:24.746 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7076/api/Contact - -
+2022-07-17 23:33:24.767 +03:00 [INF] No cached response available for this request.
+2022-07-17 23:33:24.791 +03:00 [INF] Executing endpoint 'BestPractices.Api.Controllers.ContactController.Get (BestPractices.Api)'
+2022-07-17 23:33:24.809 +03:00 [INF] LogInformation ->Get Get Method is called
+2022-07-17 23:33:24.812 +03:00 [WRN] LogWarning ->Get Get Method is called
+2022-07-17 23:33:24.814 +03:00 [ERR] LogError ->Get Get Method is called
+2022-07-17 23:33:24.825 +03:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2022-07-17 23:33:24.830 +03:00 [INF] Executed endpoint 'BestPractices.Api.Controllers.ContactController.Get (BestPractices.Api)'
+2022-07-17 23:33:24.833 +03:00 [INF] The response could not be cached for this request.
+2022-07-17 23:33:24.837 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7076/api/Contact - - - 200 - text/plain;+charset=utf-8 90.8390ms

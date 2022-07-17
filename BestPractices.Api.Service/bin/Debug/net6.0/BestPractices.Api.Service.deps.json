@@ -10,7 +10,8 @@
         "dependencies": {
           "AutoMapper": "11.0.1",
           "BestPractices.Api.Data.Models": "1.0.0",
-          "BestPractices.Api.Models": "1.0.0"
+          "BestPractices.Api.Models": "1.0.0",
+          "Microsoft.Extensions.Http": "7.0.0-preview.6.22324.4"
         },
         "runtime": {
           "BestPractices.Api.Service.dll": {}
@@ -28,6 +29,85 @@
         }
       },
       "Microsoft.CSharp/4.7.0": {},
+      "Microsoft.Extensions.DependencyInjection/7.0.0-preview.6.22324.4": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0-preview.6.22324.4"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.32404"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0-preview.6.22324.4": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.32404"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/7.0.0-preview.6.22324.4": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0-preview.6.22324.4",
+          "Microsoft.Extensions.Logging": "7.0.0-preview.6.22324.4",
+          "Microsoft.Extensions.Logging.Abstractions": "7.0.0-preview.6.22324.4",
+          "Microsoft.Extensions.Options": "7.0.0-preview.6.22324.4"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Http.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.32404"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging/7.0.0-preview.6.22324.4": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "7.0.0-preview.6.22324.4",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0-preview.6.22324.4",
+          "Microsoft.Extensions.Logging.Abstractions": "7.0.0-preview.6.22324.4",
+          "Microsoft.Extensions.Options": "7.0.0-preview.6.22324.4"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Logging.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.32404"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/7.0.0-preview.6.22324.4": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.32404"
+          }
+        }
+      },
+      "Microsoft.Extensions.Options/7.0.0-preview.6.22324.4": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0-preview.6.22324.4",
+          "Microsoft.Extensions.Primitives": "7.0.0-preview.6.22324.4"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Options.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.32404"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/7.0.0-preview.6.22324.4": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.32404"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
       "BestPractices.Api.Data.Models/1.0.0": {
         "runtime": {
           "BestPractices.Api.Data.Models.dll": {}
@@ -59,6 +139,62 @@
       "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
       "path": "microsoft.csharp/4.7.0",
       "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection/7.0.0-preview.6.22324.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AT8UCOx2QM+yPphoEDNzMjfpDAGTtCvjoLedIMewvxEsZurDaRVrPSbdmCtNqSq6S3TczsNpYOx1dq2EHDiisg==",
+      "path": "microsoft.extensions.dependencyinjection/7.0.0-preview.6.22324.4",
+      "hashPath": "microsoft.extensions.dependencyinjection.7.0.0-preview.6.22324.4.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0-preview.6.22324.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ewxeza+4E2Y6g/y8sDqlZeKPxguj0s/epsG8SC3DlkVwsb+oiTtcByMALg7VhAEwzoCwZrJvIvJtIW03GDOBrA==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/7.0.0-preview.6.22324.4",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.6.22324.4.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Http/7.0.0-preview.6.22324.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8Zzdv3AEwY3MfKR+k8yMS27hZtnTfBsUlLJRyOfhUCnezTODSzurP+ZsZGs0G/8gFSG5yL0Ccu53ZkTHGqHScQ==",
+      "path": "microsoft.extensions.http/7.0.0-preview.6.22324.4",
+      "hashPath": "microsoft.extensions.http.7.0.0-preview.6.22324.4.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging/7.0.0-preview.6.22324.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cY9DCAG2Gapfg0ChOK9DmPH7C1EpQpNntfUZlcLQWaiU5hUbfS7BR3ViXSX5PX6i1HzeNjQ4BWDSzuAkLVPBFg==",
+      "path": "microsoft.extensions.logging/7.0.0-preview.6.22324.4",
+      "hashPath": "microsoft.extensions.logging.7.0.0-preview.6.22324.4.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/7.0.0-preview.6.22324.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TQmvaGRgXNWsEf/Vk+fDy0+Y2m+EuqElP63Vlz5RMhSk2Zr6hG7kNAXuABjTLmK7AU8g67Di8XGw+4VkKu2yDQ==",
+      "path": "microsoft.extensions.logging.abstractions/7.0.0-preview.6.22324.4",
+      "hashPath": "microsoft.extensions.logging.abstractions.7.0.0-preview.6.22324.4.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Options/7.0.0-preview.6.22324.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k1NT/Ms656c/6qim6uowNGdv06oo9yFpVaRhjj/uqFFwt6XYdx1AqWqycVo2WMw9jjCEdSh3WPmu3sXv48/+MQ==",
+      "path": "microsoft.extensions.options/7.0.0-preview.6.22324.4",
+      "hashPath": "microsoft.extensions.options.7.0.0-preview.6.22324.4.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/7.0.0-preview.6.22324.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T1TTou/pPOHs4B+gFQDZfj5I7qbZGL20myaRJrb1IoDsHPDsweeaPL+cO2RzP60YhuYoy1MK8krIpvQDrCcQow==",
+      "path": "microsoft.extensions.primitives/7.0.0-preview.6.22324.4",
+      "hashPath": "microsoft.extensions.primitives.7.0.0-preview.6.22324.4.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
     },
     "BestPractices.Api.Data.Models/1.0.0": {
       "type": "project",
